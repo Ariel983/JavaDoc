@@ -3,7 +3,7 @@ package javadock;
 /**
  * <p>Clase que representa a las cuentas de un banco de tipo ahorro</p>
  * <p>Clase deredada de la clase Cuenta</p>
- * @author WAR MACHINE
+ * @author Ariel Sarango
  */
 public class Ahorro extends Cuenta{
     private double interesAnual;
